@@ -18,8 +18,8 @@ if your time is finished
 
 Features:
 
--Player movement control
--Automatic day/night mode
--Randomized aritfacts
--Time bonus after certain score
--Power ups.
+* Player movement control
+* Automatic day/night mode
+* Randomized aritfacts
+* Time bonus after certain score
+* Power ups.
